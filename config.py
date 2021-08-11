@@ -1,11 +1,11 @@
-token = ""  # from @BotFather
-app_id = 6  # https://my.telegram.org/apps
-app_hash = ""  # https://my.telegram.org/apps
-allowed = [12345678, 87654321]  # replace to your id (get your id in @userinfobot)
+token = "1936645872:AAHBrfQW5vUsLIx-DhCNSaBdkBMvqo892Pw"  # from @BotFather
+app_id = 7198234  # https://my.telegram.org/apps
+app_hash = "e31d14bffc89cf8bdc1aa65968ae3f9e"  # https://my.telegram.org/apps
+allowed = [1900659839]  # replace to your id (get your id in @userinfobot)
 logger: bool = True  # set it True to get logs in some channel... ()
 # if logger is True get your channel ID and add it here.
 # (don't forget to add your bot as admin in your channel...)
-log_channel = -100
+log_channel = -1001540722036
 
 help_text = """
 Hello I'm Terminal Bot which will Execute your Commands.
